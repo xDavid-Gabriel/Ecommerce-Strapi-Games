@@ -4,6 +4,7 @@ module.exports = ({ env }) => {
   const client = env("DATABASE_CLIENT", "mysql2");
 
   const connections = {
+    //Prueba
     // mysql: {
     //   connection: {
     //     connectionString: env("DATABASE_URL", "mysql"),
