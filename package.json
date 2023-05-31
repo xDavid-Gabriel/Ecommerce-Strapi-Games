@@ -16,7 +16,8 @@
     "@strapi/provider-upload-cloudinary": "^4.9.2",
     "@strapi/strapi": "4.9.2",
     "better-sqlite3": "8.0.1",
-    "mercadopago": "^1.5.16"
+    "mercadopago": "^1.5.16",
+    "mysql2": "^3.3.3"
   },
   "author": {
     "name": "A Strapi developer"
